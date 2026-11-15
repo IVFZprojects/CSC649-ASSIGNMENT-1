@@ -8,14 +8,6 @@ Machine learning (ML) is a way for a computer to learn from past data instead of
 
 ### Key Concepts
 
-| Concept | Meaning | Example in this project |
-|---|---|---|
-| Feature | An input that the model uses to make a prediction | Number of patients ahead, service type, time of day |
-| Label | The correct answer the model is trying to predict | The real waiting time in minutes |
-| Regression | A type of supervised learning that predicts a number | Predicting the waiting time in minutes |
-| Training and testing | Train the model on most of the data; test it on the rest | 80% of clinic queue records to train, 20% to test |
-| Overfitting | The model memorises old data but performs poorly on new data | Accurate on past queues, inaccurate on a different day |
-| MAE | Mean Absolute Error — the average difference between predicted and real values | Used to check NFR5 (10 minutes or less) |
 
 ### How it works at a basic level
 
