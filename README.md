@@ -2,8 +2,7 @@
 
 > CSC649 Special Topics in Computer Science | Individual Assignment 1
 
-**Summary:** This project studies why patients at small Malaysian clinics do not know how long they must wait. It proposes a Clinic Management System (CMS) that shows real-time queue status and uses machine learning to estimate waiting time, so patients can wait outside the crowded room.
-
+**Summary:** 
 ---
 
 ## Problem Statement
