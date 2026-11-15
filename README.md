@@ -34,16 +34,18 @@ Machine learning: predicting clinic waiting time using past queue records, rando
 
 ## Status
 
-Completed. 
+`Completed`
 
 ---
 
 ## Author
 
-- **Name:** Mohamad Ivan Faiz bin Amir
-- **Student ID:** 2025234874
-- **Class:** CS2305E
-- **Lecturer:** Ts. Dr. Ahmad Faiz Ghazali
+| Field | Details |
+|---|---|
+| **Name** | Mohamad Ivan Faiz bin Amir |
+| **Student ID** | 2025234874 |
+| **Class** | CS2305E |
+| **Lecturer** | Ts. Dr. Ahmad Faiz Ghazali |
 
 ---
 
