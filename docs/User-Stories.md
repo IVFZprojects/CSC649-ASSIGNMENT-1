@@ -10,9 +10,7 @@ Each story is linked to a requirement in [Requirement.md](Requirement.md).
 
 **Acceptance criteria**
 
-1. Scanning the QR code opens the check-in page in a phone browser. No app download is needed.
-2. After I enter my name and choose a service, my queue number and current position are shown on screen.
-3. The queue position updates automatically when patients ahead of me are called.
+
 
 ---
 
