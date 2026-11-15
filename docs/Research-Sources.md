@@ -15,3 +15,5 @@ Fauzi, N. A. M., & Suhaimi, N. H. S. (2025). Design and evaluation of QKlinik: A
 Nasrudin, M. W., Ahmad Zainuddin, N. S., Raja Ahmad, R. A., Che Yob, R., Zahir Ahmad, M. Z., Mustafa, W. A., Veeraperumal, V., & Zulkifli, N. D. M. (2023). Smart management waiting system for outpatient clinic. *Journal of Advanced Research in Applied Sciences and Engineering Technology, 29*(3), 48–61. https://doi.org/10.37934/araset.29.3.4861
 
 Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., & Duchesnay, E. (2011). Scikit-learn: Machine learning in Python. *Journal of Machine Learning Research, 12*, 2825–2830. https://jmlr.org/papers/v12/pedregosa11a.html
+
+x
