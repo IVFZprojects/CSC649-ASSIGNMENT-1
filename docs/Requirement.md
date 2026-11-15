@@ -54,4 +54,4 @@ The user stories are in [User-Stories.md](User-Stories.md).
 | 5 | Staff dashboard to call next patient | Removes the need to call names aloud; easier for staff | FR7 |
 | 6 | Cancel queue from phone | Reduces ghost queue numbers; keeps the estimate accurate | FR8 |
 
-x
+
